@@ -1,4 +1,4 @@
-## This game was last updated in 2017, this is just a repository copy on GitHub
+## This game was last updated in 2017
 # Flore
 
 Flore is a mobile crafting and strategy game prototype about plants. Craft seeds, mix them together and grow your garden. But keep in mind that some plants need others to survive while others need to be alone.
